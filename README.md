@@ -12,4 +12,5 @@ Our Features Include:
     * Google Sign in 
 You are able to change your filters at any time :)
 
-
+# Notes
+4/1/2021: The API credentials have expired and there is a CORS issue. I will try to fix this soon.
